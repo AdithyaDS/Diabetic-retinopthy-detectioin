@@ -1,1 +1,1 @@
-# Diabetic-retinopthy-detectioin
+# Diabetic-retinopthy-detection
